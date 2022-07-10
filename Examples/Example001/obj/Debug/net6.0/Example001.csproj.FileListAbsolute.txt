@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\C1\Examples\Example001\bin\Debug\net6.0\Example001.exe
+C:\Users\משתמש\Desktop\C1\Examples\Example001\bin\Debug\net6.0\Example001.deps.json
+C:\Users\משתמש\Desktop\C1\Examples\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+C:\Users\משתמש\Desktop\C1\Examples\Example001\bin\Debug\net6.0\Example001.dll
+C:\Users\משתמש\Desktop\C1\Examples\Example001\bin\Debug\net6.0\Example001.pdb
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.dll
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\refint\Example001.dll
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.pdb
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\C1\Examples\Example001\obj\Debug\net6.0\ref\Example001.dll
