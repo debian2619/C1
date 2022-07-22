@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\bin\Debug\net6.0\Esersuse11.exe
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\bin\Debug\net6.0\Esersuse11.deps.json
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\bin\Debug\net6.0\Esersuse11.runtimeconfig.json
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\bin\Debug\net6.0\Esersuse11.dll
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\bin\Debug\net6.0\Esersuse11.pdb
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.dll
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\refint\Esersuse11.dll
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.pdb
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\Esersuse11.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\C1\Examples\Esersuse11\obj\Debug\net6.0\ref\Esersuse11.dll
